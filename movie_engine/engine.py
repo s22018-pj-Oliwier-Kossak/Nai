@@ -9,7 +9,7 @@ Description of the problem:
     Creating a film engine that will display a list of recommended and non-recommended films to the given user.
 
 Instructions for use:
-    1. Required json file with users' rated videos
+    1. Required json file with users rated movies
     2. Enter name of user that you want display list of recommended and not recommended movies (name of user must be in json file).
     
 Command engine operation:
