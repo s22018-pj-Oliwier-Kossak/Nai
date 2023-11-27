@@ -14,7 +14,7 @@ Preparing the environment:
     to install  use command: "pip install <name of library >"
 
 Preparing data:
-    Most of the columns have been removed because they cannot interfere with the effectiveness of the model.
+    Most of the columns have been removed because they can interfere with the effectiveness of the model.
     Rows that do not contain the passenger's age have been deleted.
 """
 
